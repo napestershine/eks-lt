@@ -1,0 +1,7 @@
+.idea*
+.terraform*
+terraform*
+.git
+.idea
+.idea/
+.idea/*
